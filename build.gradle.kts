@@ -4,7 +4,7 @@ plugins {
     id("net.researchgate.release") version "2.8.1"
     id("com.github.ben-manes.versions") version "0.38.0"
     id("maven-publish")
-    id("com.diffplug.spotless") version "6.25.0"
+    id("com.diffplug.spotless") version "8.10.4"
     id("signing")
     id("com.gradleup.nmcp.aggregation") version "1.4.3"
 }
