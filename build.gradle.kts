@@ -2,7 +2,7 @@ import java.time.Duration
 
 plugins {
     id("net.researchgate.release") version "2.8.1"
-    id("com.github.ben-manes.versions") version "0.38.0"
+    id("com.github.ben-manes.versions") version "0.67.0"
     id("maven-publish")
     id("com.diffplug.spotless") version "6.25.0"
     id("signing")
